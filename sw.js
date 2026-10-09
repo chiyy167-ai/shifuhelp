@@ -1,5 +1,5 @@
 /* 保利管道 · 师傅上门 PWA service worker */
-const CACHE = "shifuhelp-v1";
+const CACHE = "shifuhelp-v2";
 const ASSETS = [
   "./",
   "./index.html",
